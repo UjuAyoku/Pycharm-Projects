@@ -8,7 +8,7 @@ emojis = {
     ':(': '😞',  #sad
     '*': '😘',   #kiss
     ':x': '🤐',  #lips sealed
-    ':o': '🥱'   #yawm
+    ':o': '🥱'   #yawn
 }
 
 output = ''
