@@ -1,5 +1,11 @@
 #Convert text to Smileys
 def emoji_converter(message):
+	'''
+	Converts text emojis to smileys
+	:param message: string with text emojis
+	:return: Smileys
+	'''
+	
 	words = message.split(' ')
 	#mapping special characters to smileys using windows + ;
 	emojis = {
