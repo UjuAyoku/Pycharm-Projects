@@ -1,6 +1,6 @@
-#remove the duplicates in a list
+# remove the duplicates in a list
 
-numbers = [1,3,4,4,7,6,7]
+numbers = [1, 3, 4, 4, 7, 6, 7]
 new_list = []
 
 if numbers == []:
