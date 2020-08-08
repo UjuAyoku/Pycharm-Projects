@@ -1,4 +1,4 @@
-#convert numbers to words
+# convert numbers to words
 phone = input('Phone: ')
 
 digit_mapping = {
@@ -16,5 +16,5 @@ digit_mapping = {
 
 words = ''
 for number in phone:
-    words += digit_mapping.get(number, '!') + ' ' #to space out the words
+    words += digit_mapping.get(number, '!') + ' '  # to space out the words
 print(words)
