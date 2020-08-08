@@ -1,9 +1,9 @@
-'''
+"""
 Type:
 start - to start the car
 stop - to stop the car
 quit - to exit
-'''
+"""
 guide ='Type: \nstart - to start the car \nstop - to stop the car and\nquit - to exit \n '
 print(guide)
 command = ''
@@ -17,7 +17,7 @@ while True:
             started = True
             print('Car started...Ready to go!')
     elif command == 'stop':
-        if not started: #car is already stopped
+        if not started:  # car is already stopped
             print('Car is already stopped')
         else:
             started = False
