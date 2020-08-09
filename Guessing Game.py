@@ -1,4 +1,4 @@
-# Player has 3 trys to guess a secret number
+# Player has 3 attempts to guess a secret number
 secret_number = 9
 guess_count = 0
 guess_limit = 3
