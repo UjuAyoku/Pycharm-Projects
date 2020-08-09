@@ -1,5 +1,5 @@
 # Task: Convert weight from pounds to kilograms and vice versa
-weight = int(input('Weight: ' ))
+weight = int(input('Weight: '))
 unit = input('(L)bs or (K)g: ')
 
 # convert weight from lbs to kg
