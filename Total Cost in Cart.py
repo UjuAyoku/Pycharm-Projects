@@ -1,4 +1,4 @@
-# Calculate the total amount of items in a cart
+# Task: Calculate the total amount of items in a cart
 
 cart = [10, 20, 30]
 total = 0
