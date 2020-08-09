@@ -1,2 +1,2 @@
 # Pycharm-Projects
-Simple codes in pycharm
+Useful Python codes in pycharm
